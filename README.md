@@ -2,12 +2,12 @@
 <h3 align="center">A passionate student and developer from Greece</h3>
 <h4 align="center">I love python & machine learning/AI stuff</h4>
 
-- 🔭 I’m currently working on **3 MVPs**
-  - Cancer Prediction Saas
-  - Meetings to Notes AI Saas
-  - Web Scraper for leads
+- 🔭 I’m currently working on **3** projects
+  - **Cancer Prediction** SaaS
+  - **Meetings to Notes AI** SaaS
+  - **Stock prediction trading bot**
 
-- 🌱 I’m currently learning **React & Next.js**
+- 🌱 I’m currently learning **React & Next.js** (90hours course)
 
 - 👨‍💻 All of my projects are available at [https://github.com/jimmydin7](https://github.com/jimmydin7)
 
