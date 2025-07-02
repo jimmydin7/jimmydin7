@@ -48,11 +48,9 @@
   <a href="https://godotengine.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg" alt="godot" width="40" height="40"/>
   </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/>
-  </a>
-  <a href="https://stripe.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/stripe/stripe-original.svg" alt="stripe" width="40" height="40"/>
-  </a>
+  <a href="https://stripe.com" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/stripe.svg" alt="stripe" width="40" height="40"/>
+</a>
+
 </p>
 
