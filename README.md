@@ -3,6 +3,9 @@
 <h4 align="center">I love python & machine learning/AI stuff</h4>
 
 - 🔭 I’m currently working on **3 MVPs**
+  - Cancer Prediction Saas
+  - Meetings to Notes AI Saas
+  - Web Scraper for leads
 
 - 🌱 I’m currently learning **React & Next.js**
 
