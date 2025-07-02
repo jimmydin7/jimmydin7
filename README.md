@@ -11,9 +11,10 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/jimmydin7](https://github.com/jimmydin7)
 
+- 🚀 I have been freelancing for over **3** years and completed **29** projects for clients
+
 - 📫 How to reach me **dimdinias@gmail.com**
 
-- I have been freelancing for over **3** years and completed **29** projects for clients
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
