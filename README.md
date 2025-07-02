@@ -4,15 +4,16 @@
 
 - 🔭 I’m currently working on **3** projects
   - **Cancer Prediction** SaaS
-  - **Meetings to Notes AI** SaaS
   - **Stock prediction trading bot**
-
+  - [**Custom Programming language from scratch**](https://github.com/jimmydin7/custom-programming-language)
+ 
 - 🌱 I’m currently learning **React & Next.js** (90hours course)
 
 - 👨‍💻 All of my projects are available at [https://github.com/jimmydin7](https://github.com/jimmydin7)
 
 - 📫 How to reach me **dimdinias@gmail.com**
 
+- I have been freelancing for over **3** years and completed **29** projects for clients
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
