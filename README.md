@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jim</h1>
 <h3 align="center">A passionate student and developer from Greece</h3>
-<h4 align="center">I love python & machine learning/AI stuff</h4>
-<h4 align="center">I do crypto and memecoins</h4>
+<h4 align="center">I love python & machine learning/AI stuff along with crypto and memecoins</h4>
 
 - 🔭 I’m currently working on **3** projects
   - **Cancer Prediction** SaaS
@@ -53,11 +52,9 @@
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/stripe.svg" alt="stripe" width="40" height="40"/>
 </a>
 <a href="https://solana.com/" target="_blank" rel="noreferrer">
-  <img src="https://cryptologos.cc/logos/solana-sol-logo.svg?v=024" alt="solana" width="40" height="40"/>
+  <img src="https://tse3.mm.bing.net/th/id/OIP.1ucMKxxcb9VqXNSu7kCrlQHaHa?pid=Api&P=0&w=300&h=300" alt="solana" width="40" height="40"/>
 </a>
-<a href="https://www.binance.com/" target="_blank" rel="noreferrer">
-  <img src="https://cryptologos.cc/logos/binance-coin-bnb-logo.svg?v=024" alt="binance" width="40" height="40"/>
-</a>
+
 
 </p>
 
