@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **3** projects
   - **Cancer Prediction** SaaS
-  - **Stock prediction trading bot**
+  - **Solana trading bot** (10k+ lines, +3-4% profit daily, 6 strategies)
   - [**Custom Programming language from scratch**](https://github.com/jimmydin7/custom-programming-language)
  
 - 🌱 I’m currently learning **React & Next.js** (90hours course)
