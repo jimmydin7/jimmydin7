@@ -9,8 +9,7 @@
  
 - 🌱 I’m currently learning **React & Next.js** (90hours course)
 
-- 👨‍💻 All of my projects are available at [https://github.com/jimmydin7](https://github.com/jimmydin7)
-
+- 👨‍💻 All of my projects are available at [https://github.com/jimmydin7?tab=repositories](https://github.com/jimmydin7?tab=repositories)
 - 🚀 I have been freelancing for over **3** years and completed **29** projects for clients
 
 - 📫 How to reach me **dimdinias@gmail.com**
