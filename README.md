@@ -5,11 +5,11 @@
 - 🔭 I’m currently working on **3** projects
   - **Cancer Prediction** SaaS
   - **Solana trading bot** (10k+ lines, +3-4% profit daily, 6 strategies)
-  - [**Custom Programming language from scratch**](https://github.com/jimmydin7/custom-programming-language)
+  - **Custom Programming language from scratch**, check it out [**here**](https://github.com/jimmydin7/custom-programming-language)
  
-- 🌱 I’m currently learning **React & Next.js** (90hours course)
+- 🌱 I’m currently learning **React & Next.js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/jimmydin7?tab=repositories](https://github.com/jimmydin7?tab=repositories)
+- 👨‍💻 All of my projects are available [**here**](https://github.com/jimmydin7?tab=repositories)
 - 🚀 I have been freelancing for over **3** years and completed **29** projects for clients
 
 - 📫 How to reach me **dimdinias@gmail.com**
