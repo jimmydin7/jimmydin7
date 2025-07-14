@@ -8,11 +8,22 @@
   - **Custom Programming language from scratch**, check it out [**here**](https://github.com/jimmydin7/custom-programming-language)
  
 - 🌱 I’m currently learning **React & Next.js**
-
 - 👨‍💻 All of my projects are available [**here**](https://github.com/jimmydin7?tab=repositories)
 - 🚀 I have been freelancing for over **3** years and completed **29** projects for clients
-
 - 📫 How to reach me **dimdinias@gmail.com**
+
+<h3 align="left">🏆 Awards (hackathons)</h3>
+
+
+
+<ul>
+  <li>
+    <img src="https://img.shields.io/badge/1st%20Place-Sonoma%20Hacks%204.0-blueviolet?style=flat-square&logo=hackclub" alt="Sonoma Hacks 4.0 Badge" />
+    <br />
+    🥇 <strong>First Place – <a href="https://sonomahacks.com" target="_blank">Sonoma Hacks 4.0</a></strong> (Theme: Mental Health)<br />
+    Built <a href="https://dropboard.pythonanywhere.com" target="_blank"><strong>RememberMe</strong></a>  (AI powered app that lets users chat with dead loved ones by describing their personality and memories)
+  </li>
+</ul>
 
 
 <h3 align="left">Languages and Tools:</h3>
