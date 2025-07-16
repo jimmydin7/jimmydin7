@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jim</h1>
 <h3 align="center">A passionate student and developer from Greece</h3>
-<h4 align="center">I love python & machine learning/AI stuff along with crypto and memecoins</h4>
+<h4 align="center">I love python & machine learning/AI stuff along with crypto, webdev and memecoins</h4>
 
 - 🔭 I’m currently working on **3** projects
   - **Cancer Prediction** SaaS
@@ -71,3 +71,7 @@
 <a href="https://hackclub.com/">
   <img src="https://assets.hackclub.com/icon-rounded.png" alt="Hack Club" height="50"/>
 </a>
+
+---
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=jimmydin7&show_icons=true&count_private=true&hide=prs&hide_rank=true)
