@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jim</h1>
 <h3 align="center">A passionate student and developer from Greece</h3>
 <h4 align="center">I love python & machine learning/AI stuff along with crypto, webdev and memecoins</h4>
+<img src="https://komarev.com/ghpvc/?username=jimmydin7&label=Views&color=1a5fb4&style=flat" alt="jimmydin7" />
 
 - 🔭 I’m currently working on **3** projects
   - **Cancer Prediction** SaaS
