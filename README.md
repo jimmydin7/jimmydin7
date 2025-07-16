@@ -72,6 +72,10 @@
   <img src="https://assets.hackclub.com/icon-rounded.png" alt="Hack Club" height="50"/>
 </a>
 
+<a href="https://www.microsoft.com/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" alt="Microsoft" height="50"/>
+</a>
+
 ---
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=jimmydin7&show_icons=true&count_private=true&hide=prs&hide_rank=true)
