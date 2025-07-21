@@ -22,9 +22,18 @@
     <img src="https://img.shields.io/badge/1st%20Place-Sonoma%20Hacks%204.0-blueviolet?style=flat-square&logo=hackclub" alt="Sonoma Hacks 4.0 Badge" />
     <br />
     🥇 <strong>First Place – <a href="https://sonomahacks.com" target="_blank">Sonoma Hacks 4.0</a></strong> (Theme: Mental Health)<br />
-    Built <a href="https://dropboard.pythonanywhere.com" target="_blank"><strong>RememberMe</strong></a>  (AI powered app that lets users chat with dead loved ones by describing their personality and memories)
+    <details>
+  <summary>View info & certificate</summary>
+  Built <a href="https://dropboard.pythonanywhere.com" target="_blank"><strong>RememberMe</strong></a> (AI powered app that lets users chat with dead loved ones by describing their personality and memories)
+  
+
+  <img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/3538d811cf90d225d20d3cf04a20888af760520b_of_appreciation__3_-1.png" alt="Certificate" width="500"/>
+
+</details>
   </li>
 </ul>
+
+
 
 
 <h3 align="left">Languages and Tools:</h3>
