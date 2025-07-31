@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently a **core developer** at **YouthUNITE** which is backed by 2 congresswomen and sponsored by 10 companies
  
-- 🌱 I’m currently learning **React & Next.js**
+- 🌱 I’m learning **Astro & Svelte**
 - 👨‍💻 All of my projects are available [**here**](https://github.com/jimmydin7?tab=repositories)
-- 🚀 I have been freelancing for over **3** years and completed **29** projects for clients
+- 🚀 I have been freelancing for over **3** years and completed **39+** projects for clients
 - 📫 How to reach me **dimdinias@gmail.com**
 
 <h3 align="left">🏆 Awards (hackathons)</h3>
