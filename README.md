@@ -3,10 +3,7 @@
 <h4 align="center">I love python & machine learning/AI stuff along with crypto, webdev and memecoins</h4>
 <img src="https://komarev.com/ghpvc/?username=jimmydin7&label=Views&color=1a5fb4&style=flat" alt="jimmydin7" />
 
-- 🔭 I’m currently working on **3** projects
-  - **Cancer Prediction** SaaS
-  - **Solana trading bot** (10k+ lines, +3-4% profit daily, 6 strategies)
-  - **Custom Programming language from scratch**, check it out [**here**](https://github.com/jimmydin7/custom-programming-language)
+- 🔭 I’m currently a **core developer** at **YouthUNITE** which is backed by 2 congresswomen and sponsored by 10 companies
  
 - 🌱 I’m currently learning **React & Next.js**
 - 👨‍💻 All of my projects are available [**here**](https://github.com/jimmydin7?tab=repositories)
