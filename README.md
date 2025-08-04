@@ -85,4 +85,14 @@
 
 ---
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=jimmydin7&show_icons=true&count_private=true&hide=prs&hide_rank=true)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=jimmydin7&show_icons=true&count_private=true&hide=prs&hide_rank=true" height="165px" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=12500&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=20" height="165px" />
+    </td>
+  </tr>
+</table>
+
