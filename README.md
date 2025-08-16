@@ -10,7 +10,7 @@
 - 🚀 I have been freelancing for over **3** years and completed **39+** projects for clients
 - 📫 Reach me at **dimdinias@gmail.com** or **jimdin.01** on signal
 
-<h3 align="left">🏆 Awards (hackathons)</h3>
+<h3 align="left">🏆 Awards</h3>
 
 
 
@@ -18,7 +18,7 @@
   <li>
     <img src="https://img.shields.io/badge/1st%20Place-Sonoma%20Hacks%204.0-blueviolet?style=flat-square&logo=hackclub" alt="Sonoma Hacks 4.0 Badge" />
     <br />
-    🥇 <strong>First Place – <a href="https://sonomahacks.com" target="_blank">Sonoma Hacks 4.0</a></strong> (Theme: Mental Health)<br />
+    🥇 <strong>First Place – <a href="https://sonomahacks.com" target="_blank">Sonoma Hacks 4.0 Hackathon</a></strong> (Theme: Mental Health)<br />
     <details>
   <summary>View info & certificate</summary>
   Built <a href="https://dropboard.pythonanywhere.com" target="_blank"><strong>RememberMe</strong></a> (AI powered app that lets users chat with dead loved ones by describing their personality and memories)
@@ -28,6 +28,7 @@
 
 </details>
   </li>
+  
 </ul>
 
 
