@@ -3,7 +3,7 @@
 <h4 align="center">I love python & machine learning/AI stuff along with crypto, webdev and memecoins</h4>
 <img src="https://komarev.com/ghpvc/?username=jimmydin7&label=Views&color=1a5fb4&style=flat" alt="jimmydin7" />
 
-- 🔭 I’m currently a **core developer** at **YouthUNITE** which is backed by 2 congresswomen and sponsored by 10 companies
+- 🔭 I’m currently a **core developer** at **YouthUNITE**
  
 - 🌱 I’m learning **Astro & Rust**
 - 👨‍💻 All of my projects are available [**here**](https://github.com/jimmydin7?tab=repositories)
@@ -12,16 +12,28 @@
 
 <h3 align="left">🏆 Awards</h3>
 
-
-
 <ul>
+
+<li>
+  <img src="https://img.shields.io/badge/Recognition-YouthUNITE%20Web%20Dev-green?style=flat-square" alt="YouthUNITE Badge" />
+  <br />
+  <strong>Certificate of Recognition (backed by U.S. Congress) – <a href="https://www.youthunite.us" target="_blank">YouthUNITE</a></strong><br />
+  <details>
+    <summary>View info & certificate</summary>
+    Honored for outstanding work as a student web developer. Praised for creativity, reliability, and clean code that elevated the YouthUNITE platform experience.<br />
+    Backed by the U.S. Congress (Winner of the Congressional App Challenge) and fiscally sponsored by major tech organizations including, Hack Club Bank, Someone Else's Child, and SeekCommonGround.<br />
+    <img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/75046ad9b925302d11750aee5193bef2f24234be_cert-1.png" alt="YouthUNITE Certificate" width="500"/>
+  </details>
+</li>
+
+ 
   <li>
-    <img src="https://img.shields.io/badge/1st%20Place-Sonoma%20Hacks%204.0-blueviolet?style=flat-square&logo=hackclub" alt="Sonoma Hacks 4.0 Badge" />
+    <img src="https://img.shields.io/badge/1st%20Place-Sonoma%20Hacks%204.0-blueviolet?style=flat-square" alt="Sonoma Hacks 4.0 Badge" />
     <br />
-    🥇 <strong>First Place – <a href="https://sonomahacks.com" target="_blank">Sonoma Hacks 4.0 Hackathon</a></strong> (Theme: Mental Health)<br />
+    <strong>First Place – <a href="https://sonomahacks.com" target="_blank">Sonoma Hacks 4.0 Hackathon</a></strong> (Theme: Mental Health)<br />
     <details>
   <summary>View info & certificate</summary>
-  Built <a href="https://dropboard.pythonanywhere.com" target="_blank"><strong>RememberMe</strong></a> (AI powered app that lets users chat with dead loved ones by describing their personality and memories)
+  Built <strong>RememberMe</strong></a> (AI powered app that lets users chat with dead loved ones by describing their personality and memories) and got awarded with a cash prize
   
 
   <img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/3538d811cf90d225d20d3cf04a20888af760520b_of_appreciation__3_-1.png" alt="Certificate" width="500"/>
