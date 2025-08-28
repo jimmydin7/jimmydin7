@@ -8,7 +8,7 @@
 - 🌱 I’m learning **Astro & Rust**
 - 👨‍💻 All of my projects are available [**here**](https://github.com/jimmydin7?tab=repositories)
 - 🚀 I have been freelancing for over **3** years and completed **39+** projects for clients
-- 📫 Reach me at **dimdinias@gmail.com** or **jimdin.01** on signal
+- 📫 Reach me at **jim@jimdinias.dev**
 
 <h3 align="left">🏆 Awards</h3>
 
