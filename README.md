@@ -17,7 +17,7 @@
 <li>
   <img src="https://img.shields.io/badge/Recognition-YouthUNITE%20Web%20Dev-green?style=flat-square" alt="YouthUNITE Badge" />
   <br />
-  <strong>Certificate of Recognition (backed by U.S. Congress) – <a href="https://www.youthunite.us" target="_blank">YouthUNITE</a></strong><br />
+  <strong>Certificate of Recognition (backed by U.S. Congress) – <a href="https://www.youthunite.online" target="_blank">YouthUNITE</a></strong><br />
   <details>
     <summary>View info & certificate</summary>
     Honored for outstanding work as a student web developer. Praised for creativity, reliability, and clean code that elevated the YouthUNITE platform experience.<br />
