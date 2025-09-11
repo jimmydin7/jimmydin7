@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently a **core developer** at **YouthUNITE**
  
-- 🌱 I’m learning **Astro & Rust**
+- 🌱 I’m the founder of [**Notefy**](https://notefy.pro), a B2B SaaS
 - 👨‍💻 All of my projects are available [**here**](https://github.com/jimmydin7?tab=repositories)
 - 🚀 I have been freelancing for over **3** years and completed **39+** projects for clients
 - 📫 Reach me at **jim@jimdinias.dev**
